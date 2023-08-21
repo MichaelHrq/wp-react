@@ -1,2 +1,2 @@
-# wp-react
-Teste de react dentro do wordpress
+# ReactWithWP
+Example of a React APP as a Wordpress plugin
